@@ -47,6 +47,7 @@
     </div>
 </div>
 <p class="hidden">邮件联系作者： 370343151@qq.com</p>
+<p class="hidden">源码地址：https://github.com/nairoj/DjtuAssess</p>
 <script src="js/jquery-3.1.1.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/mine.js"></script>
