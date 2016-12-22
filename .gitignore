@@ -2,5 +2,4 @@ log/*
 log2/*
 tmp/*
 .idea/
-log
-log2
+!*.gitkeep
